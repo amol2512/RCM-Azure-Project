@@ -1,0 +1,14 @@
+{
+	"name": "rcmadf",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11fc6fd1-b570-4c45-902f-b4bb75926405",
+		"tenantId": "e74788c2-28e8-4b5d-bd54-c30e6052f9fd"
+	}
+}
